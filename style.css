@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(144, 144, 228);
+  color: white;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#text {
+  text-transform: uppercase;
+}
